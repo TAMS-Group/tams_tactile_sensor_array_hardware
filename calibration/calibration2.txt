@@ -1,0 +1,4 @@
+no weight: 1660130
+20g weight: 1667333
+tip: 6mm cylinder
+resistance: 10kOhm
